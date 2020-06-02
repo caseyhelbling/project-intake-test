@@ -2,8 +2,7 @@
 name: Open Twin Cities Project Submission
 about: Project Submission
 title: OTC Project Proposal - PROJECT NAME
-labels: UX, Web Development, python, ruby, javascript, wordpress, frontend dev, backend
-  dev, ops, signal boost, design/creative, content strategy, data science
+labels: ''
 assignees: ''
 
 ---
