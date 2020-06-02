@@ -1,2 +1,2 @@
 # project-intake-test
-foo
+Example of how OTC could intake community project ideas.
