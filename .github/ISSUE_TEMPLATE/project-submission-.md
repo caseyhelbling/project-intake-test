@@ -5,7 +5,6 @@ title: OTC Project Proposal - PROJECT NAME
 labels: UX/UI, Web Development, Social Media, FE Development, Data
 Science, Ruby, Python, Javascript
 assignees:
-
 ---
 
 **Before you start, please follow this format for your issue title**:
